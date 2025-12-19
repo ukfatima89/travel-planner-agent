@@ -22,4 +22,5 @@ uv inti
 #install dependencies
 uv add google-adk python-dotenv
 #running adk web
+
 uv run adk web
